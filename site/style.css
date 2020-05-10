@@ -1,4 +1,18 @@
 body {
   font-family: 'Oxygen';
-  background-color : #00FA9A ;
+   background: linear-gradient(to bottom right, #ff99ff , #66ffff );
+}
+
+section{
+	width : 30%;
+	height : 20%;
+	margin: 30px;
+	padding: 20px;
+	padding-right: 15px;
+	background: linear-gradient(to top left,  #e6faff , #00ff99);
+	border: 1px solid black;
+}
+
+#Chicken {
+	background-color: green;
 }
