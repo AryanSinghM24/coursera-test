@@ -17,7 +17,7 @@ background: linear-gradient(to top left,  #e6faff , #00ff99);
 }
 
 section{
-	width : 30%;
+	width : 90%;
 	height : 20%;
 	margin: 30px;
 	padding: 20px;
@@ -25,4 +25,3 @@ section{
 	background: linear-gradient(to top left,  #e6faff , #00ff99);
 	border: 1px solid black;
 }
-
